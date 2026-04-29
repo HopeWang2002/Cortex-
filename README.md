@@ -7,7 +7,3 @@
 - Self-Correction**: 具备自动化的错误捕获与代码自我修复能力。
 - Chain-of-Thought**: 模拟长链推理过程，显著降低大模型生成代码的幻觉。
 
- 快速开始
-1. 克隆仓库：`git clone https://github.com/你的用户名/项目名.git`
-2. 安装依赖：`pip install -r requirements.txt`
-3. 运行项目：`python agent_system.py`
